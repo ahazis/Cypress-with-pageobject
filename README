@@ -1,0 +1,9 @@
+## Install Cypress
+    npm install cypress --save-dev
+
+## Buat file pageobject
+    cypress/pageobject/login_page.js
+
+## Run Cypress
+    npx cypress open
+    npx cypress run 
